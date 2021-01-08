@@ -1,9 +1,8 @@
 import statistics
 
-from IUM.services.reader import read_users
-from IUM.services.reader import read_products
-from IUM.services.reader import read_sessions
-import re
+from services.reader import read_users
+from services.reader import read_products
+from services.reader import read_sessions
 from collections import defaultdict
 
 users = read_users()
