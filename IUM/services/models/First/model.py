@@ -1,13 +1,16 @@
 import pandas as pd
-from services.pandas_reader import read_users
-from services.pandas_reader import read_sessions
-from services.pandas_reader import read_products
+from utils.readers.pandas_reader import read_users
+from utils.readers.pandas_reader import read_sessions
+from utils.readers.pandas_reader import read_products
+
 
 def remove_rows_with_missing_values_of_attribute(dataset, attribute):
     return dataset[dataset[attribute].notna()].reset_index()
 
+
 def change_column_types(dataset, types):
     return dataset.astype(types)
+
 
 def reconstruct_sessions_with_missing_user_id(sessions):
     sessions_copy = sessions.copy()
@@ -37,6 +40,7 @@ def reconstruct_sessions_with_missing_user_id(sessions):
     #         if reconst:
     #             num += 1
 
+
 def model():
     products = read_products()
     sessions = read_sessions()
@@ -54,8 +58,6 @@ def model():
     sessions = reconstruct_sessions_with_missing_user_id(sessions)
     sessions = remove_rows_with_missing_values_of_attribute(sessions, "user_id")
     print(len(sessions))
-
-
 
 
 model()

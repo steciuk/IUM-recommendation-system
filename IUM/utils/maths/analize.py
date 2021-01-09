@@ -1,8 +1,8 @@
 import statistics
 
-from services.reader import read_users
-from services.reader import read_products
-from services.reader import read_sessions
+from utils.readers.reader import read_users
+from utils.readers.reader import read_products
+from utils.readers.reader import read_sessions
 from collections import defaultdict
 
 users = read_users()
