@@ -52,7 +52,7 @@ def prepare_datasets():
     sessions = read_sessions()
     users = read_users()
 
-    products = products.drop(columns=['product_name', 'price'])
+    # products = products.drop(columns=['product_name', 'price'])
     sessions = sessions.drop(columns=['offered_discount', 'purchase_id', 'timestamp'])
     users = users.drop(columns=['name', 'city', 'street'])
     sessions = remove_rows_with_missing_values_of_attribute(sessions, 'product_id')
@@ -93,10 +93,11 @@ class DataHandler:
                                                                  test_size=TEST_SET_SIZE, random_state=SEED)
 
         # Indexing by user_id to speed up the searches during evaluation
-        self.interactions_indexed = interactions.set_index('user_id')
+        self.interactions_indexed = self.interactions.set_index('user_id')
         self.interactions_train_indexed = interactions_train.set_index('user_id')
         self.interactions_test_indexed = interactions_test.set_index('user_id')
         self.item_popularity = self.interactions.groupby('product_id')['event_strength'].sum().sort_values(ascending=False).reset_index()
+        self.item_ids = self.products['product_id'].tolist()
 
     def get_items_interacted(self, user_id, dataset):
         interacted_items = dataset.loc[user_id]['product_id']

@@ -46,7 +46,7 @@ class ModelEvaluator:
             # (to represent items that are assumed to be no relevant to the user)
             non_interacted_items_sample = self.get_not_interacted_items_sample(person_id,
                                                                                sample_size=EVAL_RANDOM_SAMPLE_NON_INTERACTED_ITEMS,
-                                                                               seed=item_id % (2 ** 32))  # ?
+                                                                               seed=item_id % (2 ** 32))
 
             # Combining the current interacted item with the 100 random items
             items_to_filter_recs = non_interacted_items_sample.union({item_id})
@@ -90,4 +90,4 @@ class ModelEvaluator:
 
         global_metrics = {'recall@5': global_recall_at_5,
                           'recall@10': global_recall_at_10}
-        return global_metrics, detailed_results_df
+        return global_metrics # , detailed_results_df
