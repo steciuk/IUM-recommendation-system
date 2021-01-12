@@ -11,7 +11,6 @@ from services.models.config import EVENT_TYPE_STRENGTH
 from definitions import ROOT_DIR
 
 
-
 def remove_rows_with_missing_values_of_attribute(dataset, attribute):
     return dataset[dataset[attribute].notna()]
 
