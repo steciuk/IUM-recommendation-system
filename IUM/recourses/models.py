@@ -15,11 +15,7 @@ class Models(Resource):
         date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         products = get_recommendations(user_id, model)
 
-<<<<<<< Updated upstream
-        recommendation = {"id": id, "date": date, "user_id": user_id, "products": products}
-=======
         recommendation = {"id": id, "date": date, "user_id": user_id, "model": model.name, "products": products}
->>>>>>> Stashed changes
 
         write_logs(recommendation)
 

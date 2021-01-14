@@ -1,0 +1,320 @@
+product_id,product_name,category_path,price,user_rating
+1001,Telefon Siemens Gigaset DA310,Telefony i akcesoria;Telefony stacjonarne,58.97,4.568153939818679
+1002,Kyocera FS-1135MFP,Komputery;Drukarki i skanery;Biurowe urządzenia wielofunkcyjne,2048.5,4.3159731887100214
+1003,Kyocera FS-3640MFP,Komputery;Drukarki i skanery;Biurowe urządzenia wielofunkcyjne,-7639,4.217619495037984
+1004,Fallout 3 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,49.99,1.3834435163143122
+1005,Szalone Króliki Na żywo i w kolorze (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,49.99,2.2445898210280517
+1006,Call of Duty 4 Modern Warfare (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,59.9,4.3831076837495235
+1007,Dead Space 3 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89.99,1.6033198902284513
+1008,Tom Clancy&#39;s Rainbow Six Vegas (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,49.99,1.4700768630869527
+1009,Kinect Joy Ride (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,69,2.330851881475363
+1010,BioShock 2 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89990000,2.218388929229649
+1011,BioShock Infinite (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,139.99,1.5734834424739401
+1012,Fallout New Vegas (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,69,3.5847754218760173
+1013,LA Noire (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,129.99,0.331844543876364
+1014,Lego Batman 2 DC Super Heroes (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,69.99,1.813452678597427
+1015,Max Payne 3 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89.99,0.9745053924414204
+1016,Rayman Origins (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,69,3.517642213003443
+1017,LCD Dell U2412M,Komputery;Monitory;Monitory LCD,399,4.295948151426508
+1018,Gears of War 3 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89.99,3.3691444140641176
+1019,GTA 4 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,109.99,4.765376889451628
+1020,Dead Space 2 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89,3.108366798227482
+1021,Gears of War (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,69,1.257938518890203
+1022,Mass Effect 2 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89.99,2.3195849401052877
+1023,Mass Effect 3 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89.99,3.439399118478205
+1024,Mortal Kombat (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89.99,1.8451327048349615
+1025,LCD BenQ GL2250,Komputery;Monitory;Monitory LCD,349,4.615351442813271
+1026,Red Dead Redemption (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,139.99,3.2994291166532195
+1027,Skate 3 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,56,3.552297697720093
+1028,Sniper Ghost Warrior 2 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,39,1.1266616781314838
+1029,Tom Clancy&#39;s Rainbow Six Vegas 2 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,49.99,2.0826448878370947
+1030,LCD Iiyama B2280WSD,Komputery;Monitory;Monitory LCD,739,2.986028083160976
+1031,Need for Speed Most Wanted (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,79.9,3.0649485300318253
+1032,LCD Iiyama E2280WSD,Komputery;Monitory;Monitory LCD,-688.78,0.6417118292728324
+1033,LCD Iiyama T1932MSC,Komputery;Monitory;Monitory LCD,3029000000,3.710584271971547
+1034,LCD NEC EA223WM,Komputery;Monitory;Monitory LCD,1079000000,0.46214843575242526
+1035,Samsung Galaxy S III GT-i9300,Telefony i akcesoria;Telefony komórkowe,2199.9,1.84096484562707
+1036,LCD Asus VK228H,Komputery;Monitory;Monitory LCD,639,1.5333014113973924
+1037,LCD Asus VK248H,Komputery;Monitory;Monitory LCD,799,0.598612753711929
+1038,LCD Asus VK278Q,Komputery;Monitory;Monitory LCD,1117.01,2.5157044769482155
+1039,LCD Asus VS197D,Komputery;Monitory;Monitory LCD,269,3.1452921577229946
+1040,Crysis 2 (PS3),Gry i konsole;Gry na konsole;Gry PlayStation3,79.9,0.6356204298195245
+1041,Crysis 3 (PS3),Gry i konsole;Gry na konsole;Gry PlayStation3,79.9,3.261502111931829
+1042,GTA 5 (PS3),Gry i konsole;Gry na konsole;Gry PlayStation3,129,4.705172593329516
+1043,Fight Night Champion (PS3),Gry i konsole;Gry na konsole;Gry PlayStation3,109,4.657985138257602
+1044,Assassin&#39;s Creed 3 (PS3),Gry i konsole;Gry na konsole;Gry PlayStation3,79.9,1.2352554225502903
+1045,Call of Duty Modern Warfare 2 (PS3),Gry i konsole;Gry na konsole;Gry PlayStation3,59.9,1.718940655430482
+1046,LEGO Batman 2 DC Super Heroes (PS3),Gry i konsole;Gry na konsole;Gry PlayStation3,61.18,3.0788834563945526
+1047,Pirates of the Caribbean At World&#39;s End (PS3),Gry i konsole;Gry na konsole;Gry PlayStation3,89.9,4.477790019815417
+1048,Gra o tron (PC),Gry i konsole;Gry komputerowe,63.49,2.203014571525534
+1049,Max Payne 3 (PC),Gry i konsole;Gry komputerowe,17.9,3.221858983127385
+1050,Bioshock 2 (PC),Gry i konsole;Gry komputerowe,37.9,0.42814438384770226
+1051,Spec Ops The Line (PC),Gry i konsole;Gry komputerowe,76.9,1.3305427052773733
+1052,Duke Nukem Forever (PC),Gry i konsole;Gry komputerowe,78.9,2.622677747258944
+1053,Anno 2070 (PC),Gry i konsole;Gry komputerowe,42.9,3.025005740445107
+1054,Call of Duty 2 (PC),Gry i konsole;Gry komputerowe,32.99,4.988895089079676
+1055,Call of Duty Modern Warfare 3 (PC),Gry i konsole;Gry komputerowe,32.99,0.12676330751235698
+1056,Call of Duty Black Ops (PC),Gry i konsole;Gry komputerowe,29.99,3.4537863778602635
+1057,Doom 3 (PC),Gry i konsole;Gry komputerowe,19.99,2.45958067567402
+1058,Angry Birds Classic (PC),Gry i konsole;Gry komputerowe,-24.99,2.0582174465672036
+1059,Auta 2 (PC),Gry i konsole;Gry komputerowe,22.9,2.68377254711403
+1060,Wiedźmin 2 Zabójcy królów (PC),Gry i konsole;Gry komputerowe,34.99,0.9292342318055219
+1061,Warhammer 40.000 Dawn of War (PC),Gry i konsole;Gry komputerowe,10.99,4.2332478469816195
+1062,Ridge Racer Unbounded (PC),Gry i konsole;Gry komputerowe,36.99,2.7503205094177656
+1063,Air Conflicts (PC),Gry i konsole;Gry komputerowe,75.99,2.6198318587983365
+1064,LCD BenQ GL2250HM,Komputery;Monitory;Monitory LCD,380.9,3.5975365331691918
+1065,LCD Asus PA248Q,Komputery;Monitory;Monitory LCD,1419,2.1341751071599555
+1066,LCD Iiyama T1931SR,Komputery;Monitory;Monitory LCD,2065,2.6178530978361847
+1067,Nokia 3310,Telefony i akcesoria;Telefony komórkowe,207.33,4.928964524465244
+1068,LCD NEC EA223WMe,Komputery;Monitory;Monitory LCD,999,3.1688334497235013
+1069,LCD NEC EA224WMi,Komputery;Monitory;Monitory LCD,979,0.559138601330405
+1070,LCD Philips 241S4LCB,Komputery;Monitory;Monitory LCD,609,2.0990097075814083
+1071,LCD Philips 241B4LPYCB,Komputery;Monitory;Monitory LCD,689,1.049785935487015
+1072,Jabra Freeway,Telefony i akcesoria;Akcesoria telefoniczne;Zestawy głośnomówiące,299000000,3.2647694767412716
+1073,Jabra Drive,Telefony i akcesoria;Akcesoria telefoniczne;Zestawy głośnomówiące,129,4.485280910723199
+1074,Gembird BTCC-002,Telefony i akcesoria;Akcesoria telefoniczne;Zestawy głośnomówiące,86.28,2.9407867943168315
+1075,Ricoh SG3110DN,Komputery;Drukarki i skanery;Biurowe urządzenia wielofunkcyjne,1998.14,1.1345581812939693
+1076,Samsung CLX-6260FR ### Gadżety Samsung ### Eksploatacja -10% ### Negocjuj Cenę ### Raty ### Szybkie Płatności ### Szybka Wysyłka,Komputery;Drukarki i skanery;Biurowe urządzenia wielofunkcyjne,2399,0.3349041180771656
+1077,Kyocera FS-C2026MFP,Komputery;Drukarki i skanery;Biurowe urządzenia wielofunkcyjne,3777000000,2.695216807778259
+1078,Kyocera FS-3540MFP,Komputery;Drukarki i skanery;Biurowe urządzenia wielofunkcyjne,5126,1.1958180646053496
+1079,Kyocera FS-3040MFP,Komputery;Drukarki i skanery;Biurowe urządzenia wielofunkcyjne,4598,4.8720026968093
+1080,Kyocera FS-3140MFP,Komputery;Drukarki i skanery;Biurowe urządzenia wielofunkcyjne,5301.9,2.8912921743406343
+1081,OKI B840dn,Komputery;Drukarki i skanery;Biurowe urządzenia wielofunkcyjne,5259,1.4503561747463867
+1082,Total War Shogun 2 (PC),Gry i konsole;Gry komputerowe,34.99,4.398874373805724
+1083,MAJESTY ANTOLOGIA (PC),Gry i konsole;Gry komputerowe,8.99,4.620627800215952
+1084,Sing It High School Musical 3 (PS3),Gry i konsole;Gry na konsole;Gry PlayStation3,99.99,2.47808506071216
+1085,Dishonored (PC),Gry i konsole;Gry komputerowe,34.99,1.1524387582405382
+1086,Disney Universe (PC),Gry i konsole;Gry komputerowe,24.9,1.4784633769265794
+1087,Fallout 3 (PC),Gry i konsole;Gry komputerowe,34.99,4.931839153821692
+1088,Fallout New Vegas (PC),Gry i konsole;Gry komputerowe,32.99,3.833279593206707
+1089,Rayman Origins (PC),Gry i konsole;Gry komputerowe,37.9,2.455128726368198
+1090,Władca Pierścieni Wojna Na Północy (PC),Gry i konsole;Gry komputerowe,-33.99,4.698576643612002
+1091,Borderlands (PC),Gry i konsole;Gry komputerowe,118900000,1.0976205604647549
+1092,Company of Heroes (PC),Gry i konsole;Gry komputerowe,34990000,3.8284405747981882
+1093,Company of Heroes 2 (PC),Gry i konsole;Gry komputerowe,34.99,3.9553717417086527
+1094,Hospital Tycoon (PC),Gry i konsole;Gry komputerowe,17.99,2.818578114378867
+1095,Twierdza 2 (PC),Gry i konsole;Gry komputerowe,34.99,2.109843497850971
+1096,Bionic Commando (PC),Gry i konsole;Gry komputerowe,36.99,0.24060879087962617
+1097,Company of Heroes Tales of Valor (PC),Gry i konsole;Gry komputerowe,49.99,0.29661839478948515
+1098,DIRT 3 (PC),Gry i konsole;Gry komputerowe,16.9,2.865327949317313
+1099,Resident Evil 5 (PC),Gry i konsole;Gry komputerowe,75000000,1.8819729950848496
+1100,Cities in Motion (PC),Gry i konsole;Gry komputerowe,4.99,4.178315271876889
+1101,Dragonshard (PC),Gry i konsole;Gry komputerowe,3,4.060407629643872
+1102,Dream Pinball 3D (PC),Gry i konsole;Gry komputerowe,4.9,0.5180333373011298
+1103,Symulator Śmieciarki (PC),Gry i konsole;Gry komputerowe,49.9,4.633500441728597
+1104,Anomaly Warzone Earth (PC),Gry i konsole;Gry komputerowe,37990000,4.208675182779197
+1105,Battlefield 3 Close Quarters (PC),Gry i konsole;Gry komputerowe,10.9,1.6961911844011262
+1106,Overlord (PC),Gry i konsole;Gry komputerowe,17.99,0.09552675818849166
+1107,Rise of the Argonauts (PC),Gry i konsole;Gry komputerowe,34.99,1.5838380214857883
+1108,Dead Space 2 (PC),Gry i konsole;Gry komputerowe,28.9,0.4642794723079585
+1109,Batman Arkham Asylum (PC),Gry i konsole;Gry komputerowe,33.99,2.1608580690407013
+1110,Bioshock (PC),Gry i konsole;Gry komputerowe,82.9,4.577987435177489
+1111,Battlefield Bad Company 2 (PC),Gry i konsole;Gry komputerowe,32.9,3.0977399385602764
+1112,Singularity (PC),Gry i konsole;Gry komputerowe,8900000,4.300346858808798
+1113,Borderlands 2 (PC),Gry i konsole;Gry komputerowe,16.9,0.78308125556036
+1114,Brink (PC),Gry i konsole;Gry komputerowe,32.99,0.9542710203397281
+1115,Napoleon Total War (PC),Gry i konsole;Gry komputerowe,34.99,2.0211145603443366
+1116,Call of Duty 4 Modern Warfare (PC),Gry i konsole;Gry komputerowe,45.9,3.378488724097241
+1117,Sonic Generations (PC),Gry i konsole;Gry komputerowe,79.99,3.0593299238895213
+1118,Sniper Ghost Warrior (PC),Gry i konsole;Gry komputerowe,14.9,4.352333117766991
+1119,Civilization 5 Bogowie i Królowie (PC),Gry i konsole;Gry komputerowe,78,2.0270012459596205
+1120,Civilization 4 Warlords (PC),Gry i konsole;Gry komputerowe,20.9,2.504626369061556
+1121,Battlefield 3 Powrót do Karkand (PC),Gry i konsole;Gry komputerowe,29.99,4.116811735275544
+1122,Dead Rising 2 (PC),Gry i konsole;Gry komputerowe,73,2.5015481793948386
+1123,Deep Black Reloaded (PC),Gry i konsole;Gry komputerowe,132.9,3.8157668909927955
+1124,Devil May Cry 4 (PC),Gry i konsole;Gry komputerowe,94,1.6024418389551354
+1125,Diablo 3 (PC),Gry i konsole;Gry komputerowe,69.9,0.049783067474782894
+1126,The Sims 3 Pokolenia (PC),Gry i konsole;Gry komputerowe,99.99,4.912539415508612
+1127,Dark Void (PC),Gry i konsole;Gry komputerowe,41,4.485425826355253
+1128,Anarchy Reigns (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,14.99,0.9124233080883143
+1129,Battlefield Bad Company 2 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89.99,3.322027176609548
+1130,Tom Clancy&#39;s Ghost Recon 4 Future Soldier (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,49990000,2.183749471090877
+1131,The Elder Scrolls 5 Skyrim (PC),Gry i konsole;Gry komputerowe,34.99,0.05019605506903946
+1132,A New Beginning (PC),Gry i konsole;Gry komputerowe,4.99,3.8527351619126575
+1133,Symulator Agrar 2012 (PC),Gry i konsole;Gry komputerowe,19.99,3.6257042369305386
+1134,Air Conflicts Secret Wars (PC),Gry i konsole;Gry komputerowe,38.99,1.8809178612372413
+1135,Bioshock Infinite (PC),Gry i konsole;Gry komputerowe,18.9,0.18245013812294208
+1136,Just Cause (PC),Gry i konsole;Gry komputerowe,199.9,0.9222680721824322
+1137,Death Track Resurrection (PC),Gry i konsole;Gry komputerowe,11.9,3.5752693630758934
+1138,Dead Rising 2 Off the Record (PC),Gry i konsole;Gry komputerowe,47.79,1.3199104574039793
+1139,F1 2012 (PC),Gry i konsole;Gry komputerowe,71.99,0.01067994969896957
+1140,Euro Truck Simulator 2 (PC),Gry i konsole;Gry komputerowe,12.99,3.9763186247021
+1141,Król Futbolu Piłkarski Quiz (PC),Gry i konsole;Gry komputerowe,1,2.349460146160556
+1142,Toy Story Mania (PC),Gry i konsole;Gry komputerowe,23.9,3.1127043835496533
+1143,GTR Evolution (PC),Gry i konsole;Gry komputerowe,25.49,3.6446124788506884
+1144,Street Fighter 4 (PC),Gry i konsole;Gry komputerowe,1.99,0.2867077690894071
+1145,Sniper Elite V2 (PC),Gry i konsole;Gry komputerowe,31.9,4.560496238826877
+1146,Tropico 3 (PC),Gry i konsole;Gry komputerowe,24.9,1.2951854106712024
+1147,Kurczak Mały (PC),Gry i konsole;Gry komputerowe,19.99,1.2073351108021697
+1148,Iniemamocni (PC),Gry i konsole;Gry komputerowe,169,4.065917506281769
+1149,Medal of Honor Warfighter (PC),Gry i konsole;Gry komputerowe,56900000,1.18228754478704
+1150,LEGO Piraci z Karaibów (PC),Gry i konsole;Gry komputerowe,25.9,4.139306528377433
+1151,Mafia 2 (PC),Gry i konsole;Gry komputerowe,11.9,2.5771711793569407
+1152,Mortal Kombat Komplete (PC),Gry i konsole;Gry komputerowe,32.99,4.7646477817902735
+1153,Symulator Policji (PC),Gry i konsole;Gry komputerowe,37.91,1.7871851829897127
+1154,Civilization 4 (PC),Gry i konsole;Gry komputerowe,40.9,1.704567455573246
+1155,The Sims 3 Kariera (PC),Gry i konsole;Gry komputerowe,31.9,0.8057362677631236
+1156,Rig&#39;n&#39;Roll Tirowiec (PC),Gry i konsole;Gry komputerowe,4.99,1.4403406388517759
+1157,The Elder Scrolls 4 Oblivion (PC),Gry i konsole;Gry komputerowe,34.99,2.93901364211954
+1158,Lego Star Wars The Complete Saga (PC),Gry i konsole;Gry komputerowe,36.9,0.6014613588128681
+1159,The Darkness 2 (PC),Gry i konsole;Gry komputerowe,121.9,0.5471493064398147
+1160,Street Racing Syndicate (PC),Gry i konsole;Gry komputerowe,11.9,0.49600437608776693
+1161,XCOM Enemy Unknown (PC),Gry i konsole;Gry komputerowe,18.9,0.580018009077467
+1162,Total War Shogun (PC),Gry i konsole;Gry komputerowe,30.9,4.643188775234452
+1163,Trucks &amp; Trailers (PC),Gry i konsole;Gry komputerowe,17.99,2.8393006648293158
+1164,Aliens Colonial Marines (PC),Gry i konsole;Gry komputerowe,112.99,1.0542769288903242
+1165,Gdzie jest Nemo (PC),Gry i konsole;Gry komputerowe,19.99,1.4715774228609662
+1166,Empire Total War (PC),Gry i konsole;Gry komputerowe,96.99,1.320850364286295
+1167,Aliens vs Predator (PC),Gry i konsole;Gry komputerowe,91.99,1.0175167728838008
+1168,Angry Birds Space (PC),Gry i konsole;Gry komputerowe,24.99,0.7446987043435144
+1169,Bus Driver (PC),Gry i konsole;Gry komputerowe,9.99,1.38208501098939
+1170,Symulator Kamieniołomu (PC),Gry i konsole;Gry komputerowe,4.99,3.71249039929715
+1171,Race Driver Grid (PC),Gry i konsole;Gry komputerowe,142.99,1.18375607896401
+1172,Silent Hunter 5 Bitwa o Atlantyk (PC),Gry i konsole;Gry komputerowe,31.9,2.0413431108134548
+1173,The Sims 3 Wymarzone Podróże (PC),Gry i konsole;Gry komputerowe,34.9,1.8291872061025378
+1174,Euro Truck Simulator (PC),Gry i konsole;Gry komputerowe,8.99,2.0133553986343937
+1175,Europa Universalis 3 (PC),Gry i konsole;Gry komputerowe,122.99,4.8736474611043885
+1176,The Sims 3 Nowoczesny Apartament (PC),Gry i konsole;Gry komputerowe,27.9,4.788650403368086
+1177,Twierdza 3 (PC),Gry i konsole;Gry komputerowe,34.99,2.760733901891946
+1178,King&#39;s Bounty Nowe Światy (PC),Gry i konsole;Gry komputerowe,9.99,3.270554756990322
+1179,Symulator Kopalni (PC),Gry i konsole;Gry komputerowe,14.99,4.738863355013869
+1180,Split/Second (PC),Gry i konsole;Gry komputerowe,-24.9,0.035300022588996005
+1181,Still Life (PC),Gry i konsole;Gry komputerowe,24.9,4.501525303597971
+1182,Battlefield 3 (PC),Gry i konsole;Gry komputerowe,36.9,1.1868234374030695
+1183,GTA San Andreas (PC),Gry i konsole;Gry komputerowe,40.9,0.908995699229122
+1184,Men of War Oddział Szturmowy (PC),Gry i konsole;Gry komputerowe,4.99,0.6793187940037337
+1185,Homefront (PC),Gry i konsole;Gry komputerowe,12.9,1.4125384346868612
+1186,Symulator Budowy Mostów (PC),Gry i konsole;Gry komputerowe,18.24,2.062604138549975
+1187,Symulator Czołgu (PC),Gry i konsole;Gry komputerowe,13,1.6216858555868958
+1188,Star Wars Battlefront 2 (PC),Gry i konsole;Gry komputerowe,55,1.9465626043169415
+1189,Star Wars Jedi Knight 2 Jedi Outcast (PC),Gry i konsole;Gry komputerowe,17.9,0.6068302760629724
+1190,Star Wars The Force Unleashed 2 (PC),Gry i konsole;Gry komputerowe,70.9,0.22203556095699184
+1191,Red Faction Guerrilla (PC),Gry i konsole;Gry komputerowe,-19.99,0.2431780871117295
+1192,GTA Trylogia (PC),Gry i konsole;Gry komputerowe,76.9,1.3164912806334534
+1193,Heroes Over Europe (PC),Gry i konsole;Gry komputerowe,1,4.998688271885737
+1194,Operation Flashpoint Dragon Rising (PC),Gry i konsole;Gry komputerowe,34.99,3.975662846215657
+1195,Titan Quest (PC),Gry i konsole;Gry komputerowe,38.9,0.8990870155465447
+1196,Worms Reloaded (PC),Gry i konsole;Gry komputerowe,46.99,3.525319263866045
+1197,Hearts of Iron 3 (PC),Gry i konsole;Gry komputerowe,15.99,0.7996750822085663
+1198,Tropico 4 (PC),Gry i konsole;Gry komputerowe,-16.9,1.769569965845455
+1199,GTA 5 (PC),Gry i konsole;Gry komputerowe,63.9,1.5558319065744892
+1200,Star Wars Knights of the Old Republic (PC),Gry i konsole;Gry komputerowe,23.9,1.0280847949390803
+1201,Jabra Speak 410,Telefony i akcesoria;Akcesoria telefoniczne;Zestawy głośnomówiące,327.47,2.783618049357688
+1202,Final Fantasy 14 (PC),Gry i konsole;Gry komputerowe,135.9,3.292136051233738
+1203,LEGO Batman 2 DC Super Heroes (PC),Gry i konsole;Gry komputerowe,29.99,3.913117236342144
+1204,Prosiaczek i Przyjaciele (PC),Gry i konsole;Gry komputerowe,19.99,3.46780682096103
+1205,Return to Mysterious Island (PC),Gry i konsole;Gry komputerowe,23.9,3.5639842551988217
+1206,Hearts of Iron 2 (PC),Gry i konsole;Gry komputerowe,3.59,1.3828594669083656
+1207,LEGO Batman (PC),Gry i konsole;Gry komputerowe,24.99,3.4782752004522566
+1208,Mapeciątka podróżują (PC),Gry i konsole;Gry komputerowe,13.79,3.8148757370355924
+1209,Mapeciątka zdobywają wiedzę (PC),Gry i konsole;Gry komputerowe,15.47,3.8644296289379416
+1210,Mass Effect 2 (PC),Gry i konsole;Gry komputerowe,33.9,2.5502333840962015
+1211,Need for Speed Shift 2 Unleashed (PC),Gry i konsole;Gry komputerowe,27.9,4.857192462430923
+1212,Arma 3 (PC),Gry i konsole;Gry komputerowe,102.9,1.9974707704987678
+1213,Symulator Zamiatarki ulic (PC),Gry i konsole;Gry komputerowe,5,1.69052035229324
+1214,Call of Cthulhu Mroczne zakamarki Świata (PC),Gry i konsole;Gry komputerowe,18.99,0.8293264599122452
+1215,Patrician 4 (PC),Gry i konsole;Gry komputerowe,34.9,3.604699309016471
+1216,Damnation (PC),Gry i konsole;Gry komputerowe,34.99,0.8446118723880713
+1217,Hitman Krwawa Forsa (PC),Gry i konsole;Gry komputerowe,19.9,0.6717140616898454
+1218,LEGO Władca Pierścieni (PC),Gry i konsole;Gry komputerowe,39.99,4.5129010792809146
+1219,Overlord 2 (PC),Gry i konsole;Gry komputerowe,34.99,3.082041326630131
+1220,SimCity (PC),Gry i konsole;Gry komputerowe,24.9,2.9649745594766137
+1221,The Sims 3 Cztery Pory Roku (PC),Gry i konsole;Gry komputerowe,31.9,4.740306344093854
+1222,Parrot Minikit NEO,Telefony i akcesoria;Akcesoria telefoniczne;Zestawy głośnomówiące,245,2.804392241380192
+1223,Call of Duty Black Ops 2 (PC),Gry i konsole;Gry komputerowe,32.99,2.5856023293875188
+1224,Call of Juarez Więzy Krwi (PC),Gry i konsole;Gry komputerowe,39.9,2.415478260025004
+1225,Tygrysek i Uczta Kubusia (PC),Gry i konsole;Gry komputerowe,30,3.8604083277833148
+1226,Supreme Commander (PC),Gry i konsole;Gry komputerowe,41.9,4.746285281877235
+1227,Karaoke Hity Disco Polo (PC),Gry i konsole;Gry komputerowe,24.99,1.885755799259961
+1228,Lego Harry Potter Lata 1-4 (PC),Gry i konsole;Gry komputerowe,24.99,2.154244054818748
+1229,Symulator Prac Leśnych (PC),Gry i konsole;Gry komputerowe,35,3.588949730546745
+1230,Symulator Robót Drogowych (PC),Gry i konsole;Gry komputerowe,47.7,2.7505791876699677
+1231,Symulator Transportu Kolejowego (PC),Gry i konsole;Gry komputerowe,18.24,4.205126100631123
+1232,Symulator Prac Górniczych (PC),Gry i konsole;Gry komputerowe,18.24,2.3988559772597338
+1233,Manta DVD064,Sprzęt RTV;Video;Odtwarzacze DVD,109,0.5093885882237043
+1234,Sony DVP-SR760,Sprzęt RTV;Video;Odtwarzacze DVD,193,4.167933932196641
+1235,Baldur&#39;s Gate (PC),Gry i konsole;Gry komputerowe,34.99,0.5189429961780156
+1236,Avencast Rise of the Mage (PC),Gry i konsole;Gry komputerowe,31.99,1.5165623009984324
+1237,Race Injection (PC),Gry i konsole;Gry komputerowe,35.99,0.5643437919456396
+1238,Lego Harry Potter Lata 5-7 (PC),Gry i konsole;Gry komputerowe,34.99,4.711620223721626
+1239,Civilization 3 (PC),Gry i konsole;Gry komputerowe,20.9,1.8129704397125264
+1240,PREY (PC),Gry i konsole;Gry komputerowe,19.9,3.9400496730767394
+1241,Scania Truck Driving Simulator (PC),Gry i konsole;Gry komputerowe,27.99,2.906663056976122
+1242,Karaoke Dziecięce Przeboje (PC),Gry i konsole;Gry komputerowe,-62.48,0.1170469051036932
+1243,KULT HERETIC KINGDOMS (PC),Gry i konsole;Gry komputerowe,19.99,2.360093602820839
+1244,Hard Reset (PC),Gry i konsole;Gry komputerowe,9.99,2.833331705897755
+1245,Warhammer 40.000 Dawn of War 2 (PC),Gry i konsole;Gry komputerowe,34.99,1.9863504867645658
+1246,Quake 4 (PC),Gry i konsole;Gry komputerowe,33.99,1.2827193532967924
+1247,Star Wars The Force Unleashed (PC),Gry i konsole;Gry komputerowe,63.99,2.713342375657966
+1248,GTA Vice City (PC),Gry i konsole;Gry komputerowe,40.9,0.161468238810491
+1249,King&#39;s Bounty Wojownicza Księżniczka (PC),Gry i konsole;Gry komputerowe,39.99,2.401810391374419
+1250,Port Royale 3 (PC),Gry i konsole;Gry komputerowe,23.9,3.9687542544907046
+1251,Kane &amp; Lynch 2 (PC),Gry i konsole;Gry komputerowe,15.9,0.22580547041916088
+1252,Two Worlds 2 (PC),Gry i konsole;Gry komputerowe,12.9,1.6032357806681852
+1253,The Club (PC),Gry i konsole;Gry komputerowe,39.9,2.3690263710082755
+1254,Warhammer 40.000 Dawn of War Winter Assault (PC),Gry i konsole;Gry komputerowe,55.9,3.4280558057554735
+1255,Auta (PC),Gry i konsole;Gry komputerowe,32.9,0.8458628494766751
+1256,Call of Juarez (PC),Gry i konsole;Gry komputerowe,36.99,3.6222543020483737
+1257,Mad Riders (PC),Gry i konsole;Gry komputerowe,9.9,2.134854266590611
+1258,Rage (PC),Gry i konsole;Gry komputerowe,13.99,2.0989829116253937
+1259,Rocksmith (PC),Gry i konsole;Gry komputerowe,73.9,1.3498566250141752
+1260,Sleeping Dogs (PC),Gry i konsole;Gry komputerowe,-74.9,0.9771335429621159
+1261,Symulator Maszyn Budowlanych (PC),Gry i konsole;Gry komputerowe,9.99,0.5538272709570952
+1262,Darksiders 2 (PC),Gry i konsole;Gry komputerowe,14.99,1.944513679932388
+1263,Medieval 2 Total War (PC),Gry i konsole;Gry komputerowe,34.99,0.8014247294236682
+1264,GunMetal (PC),Gry i konsole;Gry komputerowe,11.9,2.472063272386784
+1265,King&#39;s Bounty Legenda (PC),Gry i konsole;Gry komputerowe,26.99,4.876424892558597
+1266,LA Noire (PC),Gry i konsole;Gry komputerowe,47.9,1.2238779524390275
+1267,Star Wars Knights of the Old Republic 2 (PC),Gry i konsole;Gry komputerowe,23.9,1.5262068217824516
+1268,S.T.A.L.K.E.R. Cień Czarnobyla (PC),Gry i konsole;Gry komputerowe,25.9,0.17170627824294682
+1269,Space Hack (PC),Gry i konsole;Gry komputerowe,19.99,1.1660752532377539
+1270,Warhammer 40.000 Space Marine (PC),Gry i konsole;Gry komputerowe,7.9,1.732582124799178
+1271,Watch Dogs (PC),Gry i konsole;Gry komputerowe,-189,2.0119617905825193
+1272,The Ball (PC),Gry i konsole;Gry komputerowe,1,0.2843796394723458
+1273,The Lost Crown (PC),Gry i konsole;Gry komputerowe,29.9,0.8582473938530066
+1274,The Sims 3 Zwierzaki (PC),Gry i konsole;Gry komputerowe,27.9,3.150392560730108
+1275,Rome Total War (PC),Gry i konsole;Gry komputerowe,54.9,1.7919343288156853
+1276,Apple iPad mini 64GB,Komputery;Tablety i akcesoria;Tablety,1816.97,4.780087990140809
+1277,Apple iPad mini 64GB 4G,Komputery;Tablety i akcesoria;Tablety,-2317.02,0.9117778354755535
+1278,Intenso Music Walker 8GB,Sprzęt RTV;Przenośne audio i video;Odtwarzacze mp3 i mp4,78.9,4.641041240577901
+1279,Assassin&#39;s Creed 3 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,49.99,4.546412548239287
+1280,Kinectimals Now with Bears (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89,2.1927476534452306
+1281,Manta MM266,Sprzęt RTV;Przenośne audio i video;Odtwarzacze mp3 i mp4,64.8,2.815163331514155
+1282,Kinect Sports Sezon 2 (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,89.99,2.8486342772660955
+1283,Okulary 3D PHILIPS PTA436/00,Sprzęt RTV;Video;Telewizory i akcesoria;Okulary 3D,99.99,4.571122357435328
+1284,Opticum AX-900,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,49.9,0.856412066818919
+1285,Opticum AX-800,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,82.99,4.054692721747353
+1286,Opticum AX-1000,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,59.99,4.203560350318659
+1287,Philips SDV6226,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,129,2.5083284664960557
+1288,Philips SDV5100,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,119,3.8236346443921914
+1289,Philips SDV5225,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,129,4.143781076600536
+1290,Philips SDV5120,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,169,1.1169059228156382
+1291,Philips SDV6224,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,168.79,4.7983710137601525
+1292,Philips SDV8622,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,189,2.853440075421982
+1293,Hama 44292,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,44.99,0.6800486750035245
+1294,Sencor SDA-500,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,112.28,4.564613761042105
+1295,Sencor SDA-600,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,69.99,1.151504052598053
+1296,Sencor SDA-630,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,89.99,0.4133548506254747
+1297,Telmor DSP-860,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,119,2.761213411541285
+1298,Thomson ANT1410,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,219,3.2336405538731268
+1299,Vivanco TVA 301,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,109,4.17261406779582
+1300,Vivanco TVA 501,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,169000000,0.08601830987920778
+1301,Vivanco TVA 400,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,149,1.4455204158550539
+1302,Vivanco TVA 500,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,135,2.974845821364698
+1303,Wiwa AN 220,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,59.99,2.4850725265875093
+1304,Wiwa AN 200,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,29.99,4.636600858816841
+1305,One For All SV 9360,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,111.99,3.979437660085163
+1306,One For All SV 9215,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,-79.99,2.99459240834355
+1307,One For All SV 9033,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,59.99,3.4319156609258696
+1308,One For All SV 9143,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,99.99,4.871001702347593
+1309,One For All SV 9323,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,94530000,1.8559154960035977
+1310,One For All SV 9125,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,79.99,2.722352821774021
+1311,One For All SV 9345,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,189.99,1.0602295679024598
+1312,One For All SV 9335,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,99.9,0.15431577262660812
+1313,Evolveo SHARK,Sprzęt RTV;Video;Telewizory i akcesoria;Anteny RTV,103,1.5766700515075733
+1314,Assassin&#39;s Creed (Xbox 360),Gry i konsole;Gry na konsole;Gry Xbox 360,49.99,3.896452147531237
+1315,Jabra Talk,Telefony i akcesoria;Akcesoria telefoniczne;Zestawy słuchawkowe,-54.99,2.336426677699466
+1316,Plantronics Voyager Legend,Telefony i akcesoria;Akcesoria telefoniczne;Zestawy słuchawkowe,249,4.1363825400661245
+1317,Plantronics Savi W740,Telefony i akcesoria;Akcesoria telefoniczne;Zestawy słuchawkowe,1303.96,0.5786970368704358
+1318,Plantronics Savi W710,Sprzęt RTV;Audio;Słuchawki,553,4.834082608435845
+1319,HTC HS-S200,Telefony i akcesoria;Akcesoria telefoniczne;Zestawy słuchawkowe,14.99,2.6316951866741327

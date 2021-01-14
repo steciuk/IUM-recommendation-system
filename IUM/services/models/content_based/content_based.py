@@ -7,6 +7,7 @@ from services.models.data_handler import DataHandler
 
 class ContentBasedRecommender:
     def __init__(self, data_handler):
+        self.name = "Content Based"
         self.data_handler = data_handler
         self.vectorizer = TfidfVectorizer(analyzer='word',
                                           ngram_range=(1, 1),
@@ -34,11 +35,11 @@ class ContentBasedRecommender:
 
     def recommend_items(self, user_id, n=None):
         similar_items = self._get_similar_items_to_user_profile(user_id)
-        # Ignores items the user has already interacted
-        # items_seen = self.data_handler.get_items_interacted(user_id, self.train_set)
         items_seen = {}
+        # items_seen = self.data_handler.get_items_interacted(user_id, self.train_set)
         similar_items_filtered = list(filter(lambda x: x[0] not in items_seen, similar_items))
         recommendations_df = pd.DataFrame(similar_items_filtered, columns=['product_id', 'rec_strength'])
+        recommendations_df = pd.merge(recommendations_df, self.data_handler.products, how="left", on='product_id')
 
         if n is None:
             return recommendations_df

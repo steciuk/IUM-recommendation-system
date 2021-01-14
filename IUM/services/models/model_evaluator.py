@@ -26,6 +26,7 @@ class ModelEvaluator:
         return hit, index
 
     def evaluate_model_for_user(self, model, person_id):
+
         # Getting the items in test set
         interacted_values_test = self.data_handler.interactions_test_indexed.loc[person_id]
         if type(interacted_values_test['product_id']) == pd.Series:
@@ -53,6 +54,11 @@ class ModelEvaluator:
 
             # Filtering only recommendations that are either the interacted item or from a random sample of 100 non-interacted items
             valid_recs_df = person_recs_df[person_recs_df['product_id'].isin(items_to_filter_recs)]
+
+            # print(person_recs_df)
+            # print(items_to_filter_recs)
+            # print(valid_recs_df)
+
             valid_recs = valid_recs_df['product_id'].values
             # Verifying if the current interacted item is among the Top-N recommended items
             hit_at_5, index_at_5 = self._verify_hit_top_n(item_id, valid_recs, 5)
@@ -73,6 +79,7 @@ class ModelEvaluator:
         return person_metrics
 
     def evaluate_model(self, model):
+        print("Evaluated model:", model.name)
         # print('Running evaluation for users')
         people_metrics = []
         for idx, person_id in enumerate(list(self.data_handler.interactions_test_indexed.index.unique().values)):
