@@ -1,6 +1,6 @@
 from services.models.model_type import Model_type
 
-DIVIDER = 150
+DIVIDER = 550
 
 
 def get_user_model(user_id):
