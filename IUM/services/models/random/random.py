@@ -7,7 +7,10 @@ class RandomRecommender:
         self.name = "Random"
 
     def recommend_items(self, user_id, n=None):
-        recommendations_df = self.data_handler.products.sample(frac=1.0, random_state=SEED)
+        if user_id not in set(self.data_handler.interactions_test_indexed.index.unique().values):
+            return []
+
+        recommendations_df = self.data_handler.products.sample(frac=1.0)
 
         if n is None:
             return recommendations_df

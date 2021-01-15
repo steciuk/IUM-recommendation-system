@@ -1,11 +1,9 @@
 import json
-import numpy
 from definitions import ROOT_DIR
 from services.models.data_handler import DataHandler
 from services.models.content_based.content_based import ContentBasedRecommender
 from services.models.popularity.popularity import PopularityRecommender
-from services.models.model_type import Model_type
-from services.batches.get_batch_recommendation import get_batch_recommendation
+
 
 
 def generate_batches():

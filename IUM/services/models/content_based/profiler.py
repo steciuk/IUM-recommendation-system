@@ -21,7 +21,6 @@ def build_users_profile(tfidf_matrix, item_ids, person_id, interactions_indexed_
     user_item_profiles = get_item_profiles(tfidf_matrix, item_ids, interactions_person_df['product_id'])
 
     user_item_strengths = np.array(interactions_person_df['event_strength']).reshape(-1, 1)
-    # Weighted average of item profiles by the interactions strength
     user_item_strengths_weighted_avg = np.sum(user_item_profiles.multiply(user_item_strengths), axis=0) / np.sum(
         user_item_strengths)
     user_profile_norm = sklearn.preprocessing.normalize(user_item_strengths_weighted_avg)

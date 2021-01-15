@@ -2,7 +2,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 from services.models.content_based import profiler
-from services.models.data_handler import DataHandler
 
 
 class ContentBasedRecommender:
@@ -25,15 +24,15 @@ class ContentBasedRecommender:
 
 
     def _get_similar_items_to_user_profile(self, person_id, topn=1000):
-        # Computes the cosine similarity between the user profile and all item profiles
         cosine_similarities = cosine_similarity(self.user_profiles[person_id], self.tfidf_matrix)
-        # Gets the top similar items
         similar_indices = cosine_similarities.argsort().flatten()[-topn:]
-        # Sort the similar items by similarity
         similar_items = sorted([(self.data_handler.item_ids[i], cosine_similarities[0, i]) for i in similar_indices], key=lambda x: -x[1])
         return similar_items
 
     def recommend_items(self, user_id, n=None):
+        if user_id not in set(self.data_handler.interactions_test_indexed.index.unique().values):
+            return []
+
         similar_items = self._get_similar_items_to_user_profile(user_id)
         items_seen = {}
         # items_seen = self.data_handler.get_items_interacted(user_id, self.train_set)

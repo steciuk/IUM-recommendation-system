@@ -1,4 +1,3 @@
-from definitions import ROOT_DIR
 from services.models.data_handler import DataHandler
 from services.models.popularity.popularity import PopularityRecommender
 

@@ -1,7 +1,5 @@
 import json
-import os
-
-ROOT_DIR = os.path.abspath(os.curdir)
+from definitions import ROOT_DIR
 
 
 def read_users():

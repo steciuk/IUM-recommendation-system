@@ -1,10 +1,9 @@
-import json
+
 from datetime import datetime
 from uuid import uuid4
 from flask_restful import Resource
 from services.recommendations.get_user_model import get_user_model
 from services.recommendations.write_logs import write_logs
-from services.models.models_controller import get_recommendations
 from services.batches.get_batch_recommendation import get_batch_recommendation
 
 class Models(Resource):

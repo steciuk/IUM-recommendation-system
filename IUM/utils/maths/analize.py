@@ -97,5 +97,3 @@ def analyze4():
 
     nums = list(dates_num.values())
     print(statistics.mean(nums))
-
-analyze4()
