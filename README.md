@@ -1,7 +1,7 @@
 # Inżynieria Uczenia Maszynowego - Projekt - System rekomendacyjny działający dla symulacji sklepu internetowego.
 Projekt wykonany w ramach przedmiotu IUM (Inżynieria Uczenia Maszynowego) w semestrze 2020Z (5 semestr), na kierunku Informatyka, specjalizacji Inżynieria Systemów Informacyjnych (ISI) na Wydziale Elektroniki i Technik Informacyjnych (EiTI) Politechniki Warszawskiej.
 
-**Prowadzący projekt**: dr Paweł Zawistowski
+**Prowadzący projekt**: dr Paweł Zawistowski  
 **Ocena**: 28/30
 
 ### Autorzy
