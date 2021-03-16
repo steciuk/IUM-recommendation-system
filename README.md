@@ -11,5 +11,5 @@ Wojciech Moczydłowski, nr 296258
 
 ### Treść zadania
 _(Treść zadania dostępna we [wstępnej koncepcji](https://github.com/steciuk/IUM/blob/a21efd2a02b49b021ff982c3e7c57f47a7924c65/IUM%20koncepcja.pdf))_  
-_(Interpretacja i rozwiązanie dostępne w [dokumentacji końcowej](https://github.com/steciuk/IUM/blob/a21efd2a02b49b021ff982c3e7c57f47a7924c65/IUM%20dokumentajca.pdf))_ 
+_(Interpretacja i opis rozwiązania dostępne w [dokumentacji końcowej](https://github.com/steciuk/IUM/blob/a21efd2a02b49b021ff982c3e7c57f47a7924c65/IUM%20dokumentajca.pdf))_ 
 
