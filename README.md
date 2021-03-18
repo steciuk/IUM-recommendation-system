@@ -2,7 +2,7 @@
 Projekt wykonany w ramach przedmiotu IUM (Inżynieria Uczenia Maszynowego) w semestrze 2020Z (5 semestr), na kierunku Informatyka, specjalizacji Inżynieria Systemów Informacyjnych (ISI) na Wydziale Elektroniki i Technik Informacyjnych (EiTI) Politechniki Warszawskiej.
 
 **Prowadzący projekt**: dr Paweł Zawistowski  
-**Ocena**: 28/30
+**Ocena**: 48/50
 
 ### Autorzy
 Adam Steciuk, nr 300263  
